@@ -1,0 +1,28 @@
+{
+    "1465735140012720188": {
+        "1": {
+            "name": "Kael Riven",
+            "age": 18,
+            "gender": "férfi",
+            "körzet": 5,
+            "backstory": "Kael egy energiatermelő család egyik legfiatalabb tagja. Édesapjától tanulta meg a víz olvasását, édesanyjától pedig a türelmet. Bár elsőre barátságosnak tűnik, valójában nehezen beszél az érzéseiről. Gyakran vállal kockázatot mások védelmében, és nem szereti, ha bárki gyengének nézi.",
+            "status": "pending",
+            "image_status": "uploaded",
+            "image_message_id": "1571810823008034816",
+            "image_channel_id": "1570484964984619158",
+            "image_url": "https://cdn.discordapp.com/attachments/1570484964984619158/1571810822349389865/A1AAAvCy1f1nRcOhhgd5eFvs388-SW6B6HxaJo7-zMqjHBm5aBfITxoWZH3uBxVAFarv3zQWcbIx0DUeQcv_y2hJ4k2vxmMeseOmC0SSzi3OCLQpzZYH8ejKstUciGiFOMFGpCQLrhGKxRNWRCP7tcYTNo1FA_9fI0QtPkG7bb0boRmTDNYfd8v6Q9gor0o0.png?ex=6afc1666&is=6afac4e6&hm=b2d78f461c8b9e13b91db60226471c01354e96e37c25eac78cc9e65e54ed3157&",
+            "review_message_id": "1571810832545747005"
+        }
+    },
+    "994662661541339196": {
+        "1": {
+            "name": "Anyu",
+            "age": 99,
+            "gender": "Férfi",
+            "körzet": 9,
+            "backstory": "Kecskehshhshshshsjhsjshs",
+            "status": "pending",
+            "image_status": "awaiting"
+        }
+    }
+}
